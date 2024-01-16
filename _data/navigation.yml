@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: A Cog In the Cosmic Machine
+  link: /Projects/aCogInTheCosmicMachine.html
+- name: Down to Earth
+  link: /Projects/DownToEarth.html
